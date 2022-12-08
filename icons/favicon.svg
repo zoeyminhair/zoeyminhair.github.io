@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.710645,0,0,0.801695,2.70023,1.35284)">
+        <rect x="-3.876" y="-1.705" width="22.558" height="19.954" style="fill:white;"/>
+    </g>
+    <g id="Layer2" transform="matrix(1,0,0,1,0.0528441,-0.792661)">
+        <g id="Layer6" transform="matrix(1,0,0,1,0.784629,0.595236)">
+            <g transform="matrix(1.40281,-1.44578,0.87663,0.850577,-9.33172,7.37597)">
+                <rect x="5.526" y="1.778" width="0.338" height="11.939"/>
+            </g>
+            <g transform="matrix(0.59079,0,0,0.605332,4.82572,2.05442)">
+                <circle cx="9.526" cy="12.609" r="3.188"/>
+            </g>
+            <g transform="matrix(0.466243,0,0,0.462623,6.01209,3.85386)">
+                <circle cx="9.526" cy="12.609" r="3.188" style="fill:white;"/>
+            </g>
+        </g>
+        <g id="Layer61" serif:id="Layer6" transform="matrix(-0.701216,0.712949,0.712949,0.701216,7.55212,-0.701814)">
+            <g transform="matrix(1.40281,-1.44578,0.825359,0.800829,-8.62845,8.05835)">
+                <rect x="5.526" y="1.778" width="0.338" height="11.939"/>
+            </g>
+            <g transform="matrix(0.59079,0,0,0.605332,4.82572,2.05442)">
+                <circle cx="9.526" cy="12.609" r="3.188"/>
+            </g>
+            <g transform="matrix(0.466243,0,0,0.462623,6.01209,3.85386)">
+                <circle cx="9.526" cy="12.609" r="3.188" style="fill:white;"/>
+            </g>
+        </g>
+        <g transform="matrix(0.710645,0,0,0.150848,2.67318,-0.0817534)">
+            <rect x="-3.876" y="-1.705" width="22.558" height="19.954" style="fill:white;"/>
+        </g>
+    </g>
+</svg>
